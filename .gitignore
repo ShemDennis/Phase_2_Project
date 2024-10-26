@@ -1,1 +1,1 @@
-echo im.db >> .gitignore
+echo Dataset/im.db >> .gitignore
