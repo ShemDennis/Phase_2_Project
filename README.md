@@ -1,6 +1,6 @@
 # Phase Two Project
 
-This is our Data Science phase 2 project, Contributed equally by Limo Dennis, Ronoh Peter, Osoro Delvin, Thuo Boniface and Gitau Joy.
+This is a Data Science phase 2 project, Contributed equally by Limo Dennis, Ronoh Peter, Osoro Delvin, Thuo Boniface and Gitau Joy.
 
 ## Project Overview
 This project aims to use exploratory data analysis to generate insights for a business stakeholder who is interested in creating a new movie studio and requires data insights to help decide what type of films to create.
