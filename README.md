@@ -57,7 +57,7 @@ We heavily relied on our [Moringa school](https://moringaschool.com/?gclid=EAIaI
 [Here is the presentation](link) that our team used to present our findings to the stakeholder
 
 ## Contributors
-You can find each of this project contibutors here:
+You can find each of this project contibutors linked here:
 - [Limo Dennis](https://github.com/ShemDennis)
 - [Ronoh Peter](https://github.com/RonohSoy)
 - [Osoro Delvin](https://github.com/Delvinah) 
