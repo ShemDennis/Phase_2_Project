@@ -30,7 +30,7 @@ That we used. Because the data was collected from various locations, the differe
 ## Exploratory data analysis (EDA)
 In this section, we performed the following EDA activities; 
 
-- Data Understanding: we previewed the sets of data to understand the structure and nature of the data, including the types of variables (categorical, numerical, etc.) and the relationships between them.
+- Data Understanding: we previewed the sets of data to understand the structure and nature of the data, including the types of variables and the relationships between them.
 
 - Descriptive Statistics: we calculated the summary statistics such as mean, median, mode, standard deviation, and percentiles to get a sense of the data distribution.
 
