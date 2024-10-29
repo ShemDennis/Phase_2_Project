@@ -52,7 +52,7 @@ In summary,
 
 
 ## Additional Information and resources
-We heavily relied on our [Moringa school](https://moringaschool.com/?gclid=EAIaIQobChMIltKThaO0iQMVSJmDBx0ouiIhEAAYASAAEgKf5PD_BwE)) class content and Labs when doing this project. 
+We heavily relied on our [Moringa school](https://moringaschool.com/?gclid=EAIaIQobChMIltKThaO0iQMVSJmDBx0ouiIhEAAYASAAEgKf5PD_BwE) class content and Labs when doing this project. 
 
 [Here is the presentation](link) that our team used to present our findings to the stakeholder
 
