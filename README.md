@@ -12,11 +12,11 @@ A company now sees all the big companies creating original video content and the
 ## Data
 In the folder `Data` in this repository are movie datasets from:
 
-[Box Office Mojo](https://www.boxofficemojo.com/)
-[IMDB](https://www.imdb.com/)
-[Rotten Tomatoes](https://www.rottentomatoes.com/)
-[TheMovieDB](https://www.themoviedb.org/)
-[The Numbers](https://www.the-numbers.com/)
+- [Box Office Mojo](https://www.boxofficemojo.com/)
+- [IMDB](https://www.imdb.com/)
+- [Rotten Tomatoes](https://www.rottentomatoes.com/)
+- [TheMovieDB](https://www.themoviedb.org/)
+- [The Numbers](https://www.the-numbers.com/)
 
 Because it was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or pd.read_csv, while the data from IMDB is located in a SQLite database.
 
