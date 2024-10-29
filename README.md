@@ -1,4 +1,4 @@
-# Phase_2_Project
+# Phase Two Project
 
 This is our Data Science phase 2 project, Contributed equally by Limo Dennis, Ronoh Peter, Osoro Delvin, Thuo Boniface and Gitau Joy.
 
