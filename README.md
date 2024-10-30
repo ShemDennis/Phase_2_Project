@@ -1,6 +1,6 @@
 # Phase Two Project
 
-This is a Data Science phase 2 project, Contributed equally by [Limo Dennis](https://github.com/ShemDennis), [Ronoh Peter](https://github.com/RonohSoy), [Osoro Delvin](https://github.com/Delvinah), [Thuo Boniface](https://github.com/Boninafethuo) and [Gitau Joy](https://github.com/Mweru).
+This is a Data Science phase 2 project, contributed equally by [Limo Dennis](https://github.com/ShemDennis), [Ronoh Peter](https://github.com/RonohSoy), [Osoro Delvin](https://github.com/Delvinah), [Thuo Boniface](https://github.com/Boninafethuo) and [Gitau Joy](https://github.com/Mweru).
 
 ## Project Overview
 This project aims to use exploratory data analysis to generate insights for a business stakeholder who is interested in creating a new movie studio and requires data insights to help decide what type of films to create.
