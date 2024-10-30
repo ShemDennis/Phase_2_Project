@@ -18,7 +18,8 @@ In the folder `Data` in this repository are movie datasets from:
 - [TheMovieDB](https://www.themoviedb.org/)
 - [The Numbers](https://www.the-numbers.com/)
 
-That we used. Because the data was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or pd.read_csv, while the data from IMDB is located in a SQLite database.
+Because the data was collected from various locations, the different files have different formats. Some are compressed CSV (comma-separated values) or TSV (tab-separated values) files that can be opened using spreadsheet software or pd.read_csv, while the data from IMDB is located in a SQLite database.
+In this project we used the `tmdb.movies.csv`, `tn.movie_budgets.csv` and `im.db`
 
 ## How to contribute/ Usage
 - Fork this repository
@@ -43,18 +44,18 @@ In this section, we performed the following EDA activities;
 ## Key Findings
 
 ## Conclusion and Recommendations
-Here are the 3 main recommendations based on our results; 
-1.
-2.
-3.
+The 3 main recommendations based on our analysis findings are that the company should;
+1.Invest in High Budgets: We established that high budget films have high returns.
+2. Focus on Popular Genres: From our data, the highly rated genres were the Drama and Documentary genres.
+3. Boost Marketing for Popularity: We identified that high popularity increases the rate of box office performance.
 
-In summary,  
+In summary, in film production, the higher the movie rating the higher the popularity at box office and higher returns which increases with the higher the production budget.
 
 
 ## Additional Information and resources
 We heavily relied on our [Moringa school](https://moringaschool.com/?gclid=EAIaIQobChMIltKThaO0iQMVSJmDBx0ouiIhEAAYASAAEgKf5PD_BwE) class content and Labs when doing this project. 
 
-[Here is the presentation](link) that our team used to present our findings to the stakeholder
+[Here is the presentation](file:///C:/Users/mweru/OneDrive/Documents/MORINGA/PHASE%202/PROJECT/MOVIES-PHASE2-GROUP7-PRESENTATION.pdf) that our team used to present our project to our stakeholders.
 
 ## Contributors
 You can find each of this project contibutors linked here:
