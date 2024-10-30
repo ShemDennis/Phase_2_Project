@@ -55,7 +55,7 @@ In summary, in film production, the higher the movie rating the higher the popul
 ## Additional Information and resources
 We heavily relied on our [Moringa school](https://moringaschool.com/?gclid=EAIaIQobChMIltKThaO0iQMVSJmDBx0ouiIhEAAYASAAEgKf5PD_BwE) class content and Labs when doing this project. 
 
-[Here is the presentation](file:///C:/Users/mweru/OneDrive/Documents/MORINGA/PHASE%202/PROJECT/MOVIES-PHASE2-GROUP7-PRESENTATION.pdf) that our team used to present our project to our stakeholders.
+Here is the [presentation](file:///C:/Users/mweru/OneDrive/Documents/MORINGA/PHASE%202/PROJECT/MOVIES-PHASE2-GROUP7-PRESENTATION.pdf) that our team used to present our project to our stakeholders.
 
 ## Contributors
 You can find each of this project contibutors linked here:
